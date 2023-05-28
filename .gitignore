@@ -115,6 +115,7 @@ GitHub.sublime-settings
 !.vscode/extensions.json
 .history
 
+
 # Personal additions
 __pycache__/
 *.pyc
