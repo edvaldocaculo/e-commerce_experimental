@@ -28,7 +28,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = [] # noqa
 
-
 # Application definition
 
 INSTALLED_APPS = [
